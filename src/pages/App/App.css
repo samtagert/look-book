@@ -1,0 +1,17 @@
+html {
+  font-family: 'Roboto';
+  font-weight: 200;
+  text-align: center;
+  color: #333;
+}
+
+.app header {
+  width: 70%;
+  margin: 0 auto;
+}
+
+.product-card-container {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: center;
+}
